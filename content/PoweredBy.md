@@ -9,4 +9,4 @@ This Blog is powered by different technologies
 1. [Hugo](https://gohugo.io) as Build tool
 1. [Hyde](https://github.com/spf13/hyde) theme for the looks
 1. [Netlify](https://www.netlify.com) for Site hosting
-1. [Staticman](https://www.staticman.net) for comments
+1. [Staticman](https://staticman.net) for comments

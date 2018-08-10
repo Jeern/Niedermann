@@ -1,8 +1,10 @@
 baseURL = "https://www.niedermann.dk/"
 languageCode = "en-us"
-title = "Niedermann.dk"
+title = "Jesper\r\nNiedermann"
 theme = "hyde"
 
 [params]
 themeColor = "theme-base-08"
+Copyright = "Ⓒ 2018"
+Description = "Code and Tech blog"
 
