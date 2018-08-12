@@ -1,0 +1,1 @@
+This is just my (ancient) personal blog which I am moving to a Static site by using Hugo to build it.
