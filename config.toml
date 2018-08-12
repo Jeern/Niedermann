@@ -11,3 +11,9 @@ Description = "Code and stuff"
 [permalinks]
 posts = "/:year/:month/:day/:title/"
 other = "/:filename/"
+
+[staticman]
+endpoint = "https://api.staticman.net/v2/entry/"
+username = "Jeern"
+repository = "Niedermann"
+branch = "master"
