@@ -4,9 +4,9 @@ title = "Jesper\r\nNiedermann"
 theme = "hyde"
 
 [params]
-themeColor = "theme-base-08"
+themeColor = "theme-base-0b"
 Copyright = "Ⓒ 2018"
-Description = "Code and Tech blog"
+Description = "Code and stuff"
 
 [permalinks]
 posts = "/:year/:month/:day/:title/"
