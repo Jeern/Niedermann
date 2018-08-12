@@ -8,3 +8,6 @@ themeColor = "theme-base-08"
 Copyright = "Ⓒ 2018"
 Description = "Code and Tech blog"
 
+[permalinks]
+posts = "/:year/:month/:day/:title/"
+other = "/:filename/"
