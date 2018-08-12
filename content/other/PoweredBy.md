@@ -2,6 +2,7 @@
 title: "Powered by"
 date: 2018-08-10T23:51:03+02:00
 menu: "main"
+type: "other"
 ---
 This Blog is powered by different technologies
 
