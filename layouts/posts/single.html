@@ -1,0 +1,11 @@
+{{ define "main" -}}
+<div class="post">
+  <h1>{{ .Title }}</h1>
+  <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+  {{ .Content }}
+</div>
+<hr>
+<h2>Comments</h2>
+{{ partial "staticman/form-comments" . }}
+{{ partial "staticman/show-comments" . }}
+{{- end }}
