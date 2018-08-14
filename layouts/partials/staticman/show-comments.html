@@ -6,17 +6,22 @@
     {{ if eq .Name $entryId }}
       {{ $.Scratch.Add "hasComments" 1 }}
       {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
-<blockquote>
+<div>
   <p>{{ .body | markdownify }}</p>
-  <cite>
-    <img src="https://www.gravatar.com/avatar/{{ .email }}?s=100">
-    <strong>{{ .name }}</strong><br>{{ dateFormat "Mon, Jan 2, 2006" .date }}  
-</cite>
-</blockquote>
+  <div>
+    <img class="commentimage" src="https://www.gravatar.com/avatar/{{ .email }}?s=50">
+    <div class="commentfooter">
+      <small>
+        <strong>{{ .name }}</strong><br>{{ dateFormat "Mon, Jan 2, 2006" .date }} 
+      </small>
+    </div> 
+  </div>
+</div>
+<hr>
       {{ end }}       
     {{ end }}
   {{ end }}
 
   {{ if eq ($.Scratch.Get "hasComments") 0 }}
-    <p>Hey, be the first who comment this article.</p>
+    <p>Be the first to comment.</p>
   {{ end }}

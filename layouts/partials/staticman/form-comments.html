@@ -2,8 +2,11 @@
     <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
     <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
     <input type="hidden" name="options[postTitle]" value="{{ trim .Title " " }}">
+    <textarea name="fields[body]" placeholder="Your comment (markdown accepted)." rows="10"></textarea>
+    <br>
     <input name="fields[name]" type="text" placeholder="Your name">
+    <br>
     <input name="fields[email]" type="email" placeholder="Your email address">
-    <textarea name="fields[body]" placeholder="Your message. Feel free to use Markdown." rows="10"></textarea>
+    <br>
     <input type="submit" value="Submit">
 </form>
