@@ -1,6 +1,21 @@
-.commentimage {
+.commentedit {
   display: block;
   margin: 0 0 1rem;
+  border-radius: 5px;
+  float: left;
+  padding-right: 50px;
+  min-width: 100px;
+  width: 60%;
+  max-width: 380px;
+}
+
+.commenteditright {
+	line-height: 1;
+	margin-left: 10px;
+}
+
+.commentimage {
+  display: block;
   border-radius: 5px;
   float: left;
   padding-right: 10px;

@@ -1,12 +1,11 @@
 <form method="POST" action="https://api.staticman.net/v2/entry/Jeern/Niedermann/master/comments">
     <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
     <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
-    <input type="hidden" name="options[postTitle]" value="{{ trim .Title " " }}">
-    <textarea name="fields[body]" placeholder="Your comment (markdown accepted)." rows="10"></textarea>
+    <input type="hidden" name="options[postTitle]" value="{{ trim .Title " " }}"> 
+    <textarea class="commentedit" name="fields[body]" placeholder="Your comment (markdown accepted)." rows="10"></textarea>
+    <input class="commenteditright" name="fields[name]" type="text" placeholder="Your name">
     <br>
-    <input name="fields[name]" type="text" placeholder="Your name">
+    <input class="commenteditright" name="fields[email]" type="email" placeholder="Your email address">
     <br>
-    <input name="fields[email]" type="email" placeholder="Your email address">
-    <br>
-    <input type="submit" value="Submit">
+    <input class="commenteditright" type="submit" value="Submit">
 </form>
