@@ -5,8 +5,6 @@ draft: true
 aliases:
     - /2009/02/24/ThePurposeOfThisBlog.aspx
 ---
-
-
 This is the first post of my new blog. Hope
 you will like it. My plan is to blog about my favourite topic - .NET and other
 more or less related technologies. I hope to post regularly but I will keep my
