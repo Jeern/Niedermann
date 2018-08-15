@@ -2,6 +2,8 @@ baseURL = "https://www.niedermann.dk"
 languageCode = "en-us"
 title = "Jesper\r\nNiedermann"
 theme = "hyde"
+pygmentsCodefences = "true"
+
 
 [params]
 themeColor = "theme-base-0b"
