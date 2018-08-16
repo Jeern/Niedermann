@@ -24,3 +24,23 @@
 .commentfooter {
 	line-height: 1;
 }
+
+.ancient {
+    -ms-transform: translate(0px, -10px) rotate(-20deg);
+    -webkit-transform translate(0px, -10px) rotate(-20deg);
+    transform: translate(0px, -10px) rotate(-20deg);
+    border: 2px solid purple;
+    color: purple;
+    display: inline-block;
+    font-size: small;
+}
+
+.old {
+    -ms-transform: translate(0px, -10px) rotate(-20deg);
+    -webkit-transform translate(0px, -10px) rotate(-20deg);
+    transform: translate(0px, -10px) rotate(-20deg);
+    border: 2px solid red;
+    color: red;
+    display: inline-block;
+    font-size: small;
+}
