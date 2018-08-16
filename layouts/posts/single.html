@@ -7,5 +7,7 @@
 <hr>
 <h2>Comments</h2>
 {{ partial "staticman/show-comments" . }}
+{{ if lt (sub now.Year .Date.Year) 2 }}
 {{ partial "staticman/form-comments" . }}
+{{- end }}
 {{- end }}
