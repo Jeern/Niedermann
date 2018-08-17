@@ -3,10 +3,10 @@
 {{ range where .Data.Pages "Type" "posts" -}}
 <div class="post">
   <h1 class="post-title">
-    {{ if gt (sub now.Year .Date.Year) 8 }}
+    {{ if gt (sub now.Year .Date.Year) 7 }}
       <div class="ancient">ancient</div>
     {{ else }}
-      {{ if gt (sub now.Year .Date.Year) 5 }}
+      {{ if gt (sub now.Year .Date.Year) 4 }}
         <div class="old">old</div>
       {{ end }}
     {{ end }}
