@@ -1,11 +1,11 @@
-  {{ $comments := readDir "data/comments" }}
+  {{ $commentfiles := readDir "data/comments" }}
   {{ $.Scratch.Add "hasComments" 0 }}
   {{ $entryId := trim .Title " " }}
-
-  {{ range $comments }}
+  
+  {{ range $commentfiles }}
     {{ if eq .Name $entryId }}
       {{ $.Scratch.Add "hasComments" 1 }}
-      {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
+      {{ range sort ($comments := (index $.Site.Data.comments $entryId)) "date" }}
 <div>
   <p>{{ .body | markdownify }}</p>
   <div>
