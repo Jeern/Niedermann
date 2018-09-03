@@ -35,4 +35,4 @@ MME does not work for the Express editions of VS.
 
 I also recommend installing the MME MenuManager template which you can also find in the Extension Manager.
 
-At codeplex you can read more about [implementing](http://mme.codeplex.com/wikipage?title=implementing&referringTitle=Documentation) and [deploying](http://mme.codeplex.com/wikipage?title=deploying&amp;amp;referringTitle=Documentation) MME’s and also get further insight on the [architecture](http://mme.codeplex.com/wikipage?title=Architecture&amp;amp;referringTitle=Documentation).
+At codeplex you can read more about [implementing](http://mme.codeplex.com/wikipage?title=implementing&referringTitle=Documentation) and [deploying](http://mme.codeplex.com/wikipage?title=deploying&referringTitle=Documentation) MME’s and also get further insight on the [architecture](http://mme.codeplex.com/wikipage?title=Architecture&referringTitle=Documentation).
