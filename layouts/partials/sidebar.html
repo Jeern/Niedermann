@@ -6,7 +6,7 @@
       {{ with .Site.Params.description }} {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
       </p>
     </div>
-    <img src="images/StickFigures/testcreativecommons{{ index (seq 2 | shuffle) 0 }}.gif" alt="Stick Figure">
+    <img id="StickFigure" alt="Stick Figure">
     <ul class="sidebar-nav">
       <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
       {{ range .Site.Menus.main -}}
