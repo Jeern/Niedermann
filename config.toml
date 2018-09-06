@@ -8,7 +8,7 @@ pygmentsCodefences = "true"
 [params]
 themeColor = "theme-base-0b"
 Copyright = "Ⓒ 2018"
-Description = "Code and stuff"
+Description = "On code and stuff"
 
 [permalinks]
 posts = "/:year/:month/:day/:title/"
