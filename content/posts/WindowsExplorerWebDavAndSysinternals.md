@@ -11,7 +11,7 @@ As an example I will show you have to access the http://live.sysinternals.com si
 
 In order to connect you just have to click on the good old "Map Network Drive ..."
 
-![Map network drive](/images/WindowsExplorerWebDavAndSysinternals/Temp1.jpg)
+![Choose Tools and then Map network drive](/images/WindowsExplorerWebDavAndSysinternals/Temp1.jpg)
 
 Since I know the name of the subdirectory 'tools', the easiest way seems to be to map to a drive letter directly by typing the name \\\\live.sysinternals.com\\tools in the folder textbox:
 
@@ -19,7 +19,7 @@ Since I know the name of the subdirectory 'tools', the easiest way seems to be t
 
 If you are trying to connect to an ftp server the right way seems to be to click on "sign up for online storage..." After pressing "Next" twice you get this screen:
 
-![Map network drive](/images/WindowsExplorerWebDavAndSysinternals/Temp3.jpg)
+![Add Network place Wizard](/images/WindowsExplorerWebDavAndSysinternals/Temp3.jpg)
 
 Here you can write the name of the ftp server or website if using WebDAV, so here I could have written 'http://live.sysinternals.com'. The next screen makes you enter username/password or Anonymous access. Pretty self explanatory.
 
