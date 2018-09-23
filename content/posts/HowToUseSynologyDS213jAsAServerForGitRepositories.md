@@ -1,7 +1,7 @@
 ---
 title: "How to use Synology DS213j as a server for Git Repositories"
 date: 2014-06-08T02:00:00+02:00
-draft: true
+draft: false
 aliases:
     - /2014/06/08/HowToUseSynologyDS213jAsAServerForGitRepositories.aspx
 ---

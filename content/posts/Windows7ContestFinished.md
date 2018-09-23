@@ -2,7 +2,7 @@
 title: "Windows 7 Contest finished
 "
 date: 2009-10-20T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/10/20/Windows7ContestFinished.aspx
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Syntax highlighting in this blog"
 date: 2009-03-08T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/03/08/SyntaxHighlightingInThisBlog.aspx
 ---

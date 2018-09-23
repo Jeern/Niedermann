@@ -1,7 +1,7 @@
 ---
 title: "Reviving this Blog"
 date: 2018-09-23T20:52:00+02:00
-draft: true
+draft: false
 ---
 It has been 4 years since my last post, and 7 years since I posted regularly. Phew... time flies. The reason has not been a lack of subjects but more that other things were more fun, like making all sorts of games for iPhone, Apple TV, XBox and PC. I could have shared some of the experiences but I was too lazy to update the blogging tech. from the old DasBlog engine to something contemporary.
 

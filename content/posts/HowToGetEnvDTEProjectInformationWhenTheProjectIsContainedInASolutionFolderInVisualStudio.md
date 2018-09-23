@@ -2,7 +2,7 @@
 title: "How to get EnvDTE.Project information when the project is contained in a Solution Folder in Visual Studio
 "
 date: 2009-06-14T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/06/14/HowToGetEnvDTEProjectInformationWhenTheProjectIsContainedInASolutionFolderInVisualStudio.aspx
 ---

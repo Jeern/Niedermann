@@ -1,7 +1,7 @@
 ---
 title: "Best practice use of the var keyword in C#"
 date: 2009-04-07T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/04/07/BestPracticeUseOfTheVarKeywordInC.aspx
 ---

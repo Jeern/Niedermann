@@ -1,7 +1,7 @@
 ---
 title: "Extremely fast Sudokus of any size programmed in silverlight 3"
 date: 2009-08-03T02:00:00+02:00
-draft: true
+draft: false
 aliases:
     - /2009/08/03/ExtremelyFastSudokusOfAnySizeProgrammedInSilverlight3.aspx
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Retro XNA Game Klimakonflikt under development"
 date: 2009-11-13T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/11/13/RetroXNAGameKlimakonfliktUnderDevelopment.aspx
 ---

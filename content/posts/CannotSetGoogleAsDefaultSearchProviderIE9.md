@@ -1,7 +1,7 @@
 ---
 title: "Cannot set google as default Search provider IE9"
 date: 2011-04-18T02:00:00+02:00
-draft: true
+draft: false
 aliases:
     - /2011/04/18/CannotSetGoogleAsDefaultSearchProviderIE9.aspx
 ---

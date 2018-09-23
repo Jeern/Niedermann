@@ -1,7 +1,7 @@
 ---
 title: "Photo Challenge Released"
 date: 2011-07-26T02:00:00+02:00
-draft: true
+draft: false
 aliases:
     - /2011/07/26/PhotoChallengeReleased.aspx
 ---

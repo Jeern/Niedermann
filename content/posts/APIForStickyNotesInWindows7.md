@@ -1,7 +1,7 @@
 ---
 title: "API for Sticky Notes in Windows 7"
 date: 2009-11-13T23:28:10.6463905+00:00
-draft: true
+draft: false
 aliases:
     - /2009/11/13/APIForStickyNotesInWindows7.aspx
 ---

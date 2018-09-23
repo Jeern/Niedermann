@@ -1,7 +1,7 @@
 ---
 title: "Sudoku"
 date: 2009-08-03T02:00:00+02:00
-draft: true
+draft: false
 type: "other"
 aliases:
     - /Sudoku/Sudoku.aspx

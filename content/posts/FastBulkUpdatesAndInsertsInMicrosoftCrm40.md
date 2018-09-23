@@ -2,7 +2,7 @@
 title: "Fast bulk updates and inserts in Microsoft CRM 4.0
 "
 date: 2010-03-07T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2010/03/07/FastBulkUpdatesAndInsertsInMicrosoftCRM40.aspx
 ---

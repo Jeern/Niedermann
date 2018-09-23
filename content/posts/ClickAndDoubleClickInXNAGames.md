@@ -2,7 +2,7 @@
 title: "Click and double click in XNA Games
 "
 date: 2010-05-12T02:00:00+02:00
-draft: true
+draft: false
 aliases:
     - /2010/05/12/ClickAndDoubleClickInXNAGames.aspx
 ---
