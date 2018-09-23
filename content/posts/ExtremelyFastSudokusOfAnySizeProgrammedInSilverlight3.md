@@ -33,7 +33,7 @@ I could also have applied a 4th transformation  that switched the big blocks as 
 
 In all this the entire puzzle can be generated in milliseconds for even extremely big Sudokus.
 
-Try it out yourself at [http://www.niedermann.dk/Sudoku/Sudoku.aspx](/Sudoku/Sudoku.aspx)
+Try it out yourself at [http://www.niedermann.dk/Sudoku/Sudoku.aspx]({{<ref "/Sudoku.md">}})
 
 # A few calculations
 
