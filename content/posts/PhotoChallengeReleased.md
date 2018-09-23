@@ -7,10 +7,9 @@ aliases:
 ---
 I and a team of 1 graphic artist and 1 sound engineer just finished our first game for Windows Phone 7 called “[Photo Challenge](http://windowsphone.com/s?appid=ab75a012-53a3-e011-986b-78e7d1fa76f8)” a few weeks ago. We planned this pretty simple game to get experience before going for the big hit. The concept has been seen before. A Puzzle Slider where you have to solve a square puzzle with 2x2, 3x3, 4x4, 5x5 or 6x6 squares with one square missing. The Puzzle can be made from you own photos or from some build in ones. Here is a few screenshots:
 
-![Screenshot number 1 of Photo Challenge](/images/PhotoChallengeReleased/screenshot_1_2.png)
-![Screenshot number 2 of Photo Challenge](/images/PhotoChallengeReleased/screenshot_2_2.png)
-![Screenshot number 3 of Photo Challenge](/images/PhotoChallengeReleased/screenshot_4_2.png)
-![Screenshot number 4 of Photo Challenge](/images/PhotoChallengeReleased/screenshot_7_2.png)
+|||||
+|:---:|:---:|:---:|:---:|
+|![Screenshot number 1 of Photo Challenge](/images/PhotoChallengeReleased/screenshot_1_thumb.png)|![Screenshot number 2 of Photo Challenge](/images/PhotoChallengeReleased/screenshot_2_thumb.png)|![Screenshot number 3 of Photo Challenge](/images/PhotoChallengeReleased/screenshot_4_thumb.png)|![Screenshot number 4 of Photo Challenge](/images/PhotoChallengeReleased/screenshot_7_thumb.png)| 
 
 The point of the game is to solve the puzzle as fast as possible to make it to the leaderboards. We used the great service Mogade.com for the leaderboards. I plan to cover that aspect in another post.
 
