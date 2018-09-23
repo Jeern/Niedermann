@@ -17,9 +17,9 @@ During the summer holiday this year I fiddled around with the static site genera
 
 Not as simple as my idea but actually better because of the commit log, branches etc.
 
-I decided to transfer my old blog to the new [Hugo](https://gohugo.io) format.
+I decided to transfer my old blog to the [Hugo](https://gohugo.io) format.
 
-Quite time consuming too actually because I needed to preserve the old links, comments and so on.
+Quite time consuming in itself actually because I needed to preserve the old links, comments and so on.
 
 But I think I am finally finished.
 
