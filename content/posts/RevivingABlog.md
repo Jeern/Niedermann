@@ -1,5 +1,5 @@
 ---
-title: "Reviving this Blog"
+title: "Reviving a blog"
 date: 2018-09-23T20:52:00+02:00
 draft: false
 ---
