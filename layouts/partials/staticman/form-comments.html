@@ -2,12 +2,14 @@
     <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
     <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
     <input type="hidden" name="options[postTitle]" value="{{ trim .Title " " }}"> 
-    <textarea class="commentedit" name="fields[body]" placeholder="Your comment (markdown accepted)." rows="10"></textarea>
-    <input class="commenteditright" name="fields[name]" type="text" placeholder="Your name">
+    <input type="hidden" name="funkypot"> 
+    <textarea id="body" class="commentedit" name="fields[body]" placeholder="Your comment (markdown accepted)." rows="10"></textarea>
+    <input id="name" class="commenteditright" name="fields[name]" type="text" placeholder="Your name">
     <br>
-    <input class="commenteditright" name="fields[email]" type="email" placeholder="Your email address">
+    <input id="phone" class="commenteditright" name="fields[phone]" type="text" placeholder="Your phone number">
+    <input id="email" class="commenteditright" name="fields[email]" type="email" placeholder="Your email address">
     <br>
-    <input class="commenteditright" type="submit" value="Submit">
+    <input id="submit" class="commenteditright" type="submit" value="Submit">
     <input type="hidden" name="options[reCaptcha][siteKey]" value="6Lcm6HEUAAAAAC4K3o6JhUnUFfWkDKe6V8UdfGM0">
 	<input type="hidden" name="options[reCaptcha][secret]" value="IIUQ+LSg2A9e+jp1hSDE81rxGq+Vyh9xK5D06zMUB4kvErcc9QeU5Y6GoxZt/W2HzzIHHP4h6xDXqWAeRc+8vcfj2gsYyb9t6jH558dhgXsNKQsWKeOjTT6pDNxQXQ0FiY8McWGrdGdNaeG7nNl4dCG3do/CmE/u/35eNi8jGGg=">
 	<div class="g-recaptcha" data-sitekey="6Lcm6HEUAAAAAC4K3o6JhUnUFfWkDKe6V8UdfGM0"></div>
