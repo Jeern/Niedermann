@@ -2,7 +2,7 @@
 title: "Mogade.com an amazing free Leaderboard Service
 "
 date: 2011-07-28T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2011/07/28/MogadecomAnAmazingFreeLeaderboardService.aspx
 ---
@@ -24,4 +24,4 @@ Features:
 * In the WP7 API there are a number of ways to define a user in mogade.com terms e.g. one uses your liveid and another the deviceid combined with a username. The last one is the one we use. This means that 2 users with the same username but different phones will be two distinct users on the leaderboard.
 To get started you should download the code from Github https://github.com/mogade/mogade-windowsphone and look at the samples there. Furthermore I found this nice blogpost to help me get going http://briansolli.wordpress.com/2011/03/30/online-leaderboard-for-your-wp7-game
 
-In http://www.niedermann.dk/2011/07/26/PhotoChallengeReleased.aspx you can see a screenshot of the graphical look of the leaderboard we came up with in Photo Challenge.
+In [http://www.niedermann.dk/2011/07/26/PhotoChallengeReleased.aspx]({{<ref "/PhotoChallengeReleased.md">}}) you can see a screenshot of the graphical look of the leaderboard we came up with in Photo Challenge.

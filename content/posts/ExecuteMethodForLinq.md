@@ -1,7 +1,7 @@
 ---
 title: "Execute method for Linq"
 date: 2009-05-01T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/05/01/ExecuteMethodForLinq.aspx
 ---

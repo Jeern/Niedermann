@@ -1,7 +1,7 @@
 ---
 title: "How to repair GreatNews database"
 date: 2009-05-06T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/05/06/HowToRepairGreatNewsDatabase.aspx
 ---

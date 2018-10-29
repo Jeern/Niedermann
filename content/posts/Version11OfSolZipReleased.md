@@ -1,7 +1,7 @@
 ---
 title: "Version 1.1 of SolZip released"
 date: 2009-06-29T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/06/29/Version11OfSolZipReleased.aspx
 ---

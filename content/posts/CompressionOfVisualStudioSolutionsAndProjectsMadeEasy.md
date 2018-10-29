@@ -1,7 +1,7 @@
 ---
 title: "Compression of Visual Studio Solutions and Projects made easy"
 date: 2009-06-15T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/06/15/CompressionOfVisualStudioSolutionsAndProjectsMadeEasy.aspx
 ---

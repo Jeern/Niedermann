@@ -1,7 +1,7 @@
 ---
 title: "The Missing Linq / What is Linq really ?"
 date: 2009-03-18T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/03/18/TheMissingLinqWhatIsLinqReally.aspx
 ---

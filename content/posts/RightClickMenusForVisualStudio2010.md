@@ -1,7 +1,7 @@
 ---
 title: "Right Click menus for Visual Studio 2010"
 date: 2010-06-13T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2010/06/13/RightClickMenusForVisualStudio2010.aspx
 ---

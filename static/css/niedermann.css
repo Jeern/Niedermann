@@ -14,6 +14,12 @@
 	margin-left: 10px;
 }
 
+#phone {
+  line-height: 0;
+  margin-left: 0px;
+  display: none;
+}
+
 .commentimage {
   display: block;
   border-radius: 5px;

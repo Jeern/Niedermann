@@ -1,7 +1,7 @@
 ---
 title: "Debugging huge legacy systems"
 date: 2009-03-11T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2009/03/11/DebuggingHugeLegacySystems.aspx
 ---

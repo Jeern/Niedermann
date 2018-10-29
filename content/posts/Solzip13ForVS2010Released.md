@@ -2,7 +2,7 @@
 title: "Solzip 1.3 for VS2010 released
 "
 date: 2011-09-07T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2011/09/07/Solzip13ForVS2010Released.aspx
 ---

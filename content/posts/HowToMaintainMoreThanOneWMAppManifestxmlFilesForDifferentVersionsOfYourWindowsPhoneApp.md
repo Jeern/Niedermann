@@ -1,7 +1,7 @@
 ---
 title: "How to maintain more than one WMAppManifest.xml files for different versions of your Windows Phone App"
 date: 2011-07-24T01:00:00+01:00
-draft: true
+draft: false
 aliases:
     - /2011/07/24/HowToMaintainMoreThanOneWMAppManifestxmlFilesForDifferentVersionsOfYourWindowsPhoneApp.aspx
 ---
