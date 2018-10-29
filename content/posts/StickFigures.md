@@ -3,7 +3,7 @@ title: "Stick Figures"
 date: 2018-10-28T23:51:03+02:00
 draft: true
 ---
-Just for fun and to have a little special something for the blog I decided to do some animated GIFs of Stick Figures. So I created a special little tool called "[StickFigure](...)" (Windows only sorry) designed for making animated Match stick men and other drawings like that.
+Just for fun and to have a little special something for the blog I decided to do some animated GIFs of Stick Figures. So I created a little tool called "[StickFigure](...)" (Windows only sorry) designed for making animated Match stick men and other drawings like that.
 
 The tool works like this:
 
@@ -57,7 +57,11 @@ The GIFs are created by combining the JPGs using code from [here](https://social
 
 The code is free for you to use on [Github](...) it is very hack & slashy so you should probably modify it if you want to use it for anything serious. 
 
-The resulting stickfigures you are not allowed to use (and why would you use such ugly creations :) ) You can see some on the left side-bar of this blog a new one every time you press F5. Some of them created by my 5 year old. Yes its that easy to use the program. Funny thing is that my own drawings also looks like a 5 year olds :)
+The resulting stickfigures you are not allowed to use (and why would you use such ugly creations :) ) You can see some on the left side-bar of this blog a new one every time you press F5. 
+
+Some of them are created by my 5 year old... Yes it's that easy ! 
+
+Funny thing is that my own drawings also looks like a 5 year olds drawings :)
 
 
 
