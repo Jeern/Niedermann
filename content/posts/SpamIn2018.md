@@ -17,3 +17,5 @@ https://github.com/eduardoboucas/staticman-recaptcha
 I knew spam would come, but not at that rate. I naively hoped that in 2018 the bad guys would have found more profitable areas of revenue than spamming blog comments. Turned out not to be the case.
 
 I hope that ReCaptcha will effectively stop it.
+
+*Update Nov 4, 2018: Recaptcha was only partially effective stopping about two thirds. When I added a [honeypot](https://stackoverflow.com/questions/36227376/better-honeypot-implementation-form-anti-spam) to the mix spam was finally eliminated.*
