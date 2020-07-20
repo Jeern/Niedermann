@@ -6,7 +6,7 @@ draft: false
 
 I just released 3 small libraries for configuring secrets in a .NET Core or Full framework app.
 
-Its a simple key/value store with encrypted values. And it supports .NET Configuration (both Core and Full Framework)
+Its a simple key/value store with encrypted values and it supports .NET Configuration (both Core and Full Framework)
 
 Its called [QuickVault](https://github.com/Jeern/QuickVault) and consists of a .NET standard base library installed with:
 
@@ -14,7 +14,7 @@ Its called [QuickVault](https://github.com/Jeern/QuickVault) and consists of a .
 Install-Package QuickVault
 ```
 
-A library for .NET core configuration:
+A library for .NET Core configuration:
 
 ```
 Install-Package QuickVault.Configuration.Core
