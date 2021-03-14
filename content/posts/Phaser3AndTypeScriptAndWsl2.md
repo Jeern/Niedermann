@@ -33,7 +33,7 @@ between the two environments.
 Still the yarn setup commands used in the original post are not verbatum applicable anymore because some of the packages 
 do not work together the same way anymore.
 
-# Using VS code
+## Using VS code
 
 But first things first. 
 
@@ -53,7 +53,7 @@ grep -m 1 nameserver /etc/resolv.conf | awk '{print $2}'
 And confirm that you can ping it from windows.
 
 
-# Installing TypeScript, Phaser etc.
+## Installing TypeScript, Phaser etc.
 
 Then I go to the folder in the Ubuntu instance (can also be accessed from the terminal in VS Code). 
 And do the the setup as describer in the [phaser 3 typescript tutorial](https://spin.atomicobject.com/2019/07/13/phaser-3-typescript-tutorial/)
@@ -87,7 +87,7 @@ yarn add phaser
 The rest of the guide had only very few problems like a missing Assets folder that I could just create.
 
 
-# Accessing the dev web server on Ubuntu
+## Accessing the dev web server on Ubuntu
 
 It was problem free to start the development web server on ubuntu using `yarn dev` in the project folder.
 
@@ -116,7 +116,7 @@ Somewhat confident.
 
 The setup on your machine might be very different, I use Eset for firewall but it respects the windows firewall rules.
 
-# How to continue
+## How to continue
 
 Now that I things work I will probably continue using WSL2 and VS Code to develop the next game. However there is also the option of
 going all windows again or perhaps use a devcontainer in combination with VS Code. Will definitley try it out to see if it works for me.
