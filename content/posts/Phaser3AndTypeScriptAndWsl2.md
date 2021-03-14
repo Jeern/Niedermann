@@ -23,15 +23,15 @@ Very thourough and helpful guide with a Github repo. Awesome.
 
 Unfortunately time goes by and things changes + the tutorial seems to be linux centric and I prefer to develop on Windows.
 
-Certain NPM and yarn commands did not work as expected when running on windows so instead I tried to go for 
+Certain yarn commands did not work as expected when running on windows so instead I tried to go for 
 installing them in WSL2 (using Ubuntu on my machine)
 
 That being said after a lot of pain getting everything to run on WSL2 I tried the tutorial again on windows and 
-now it works there too. So perphaps it had to to with my specific setup and something unknown to me is shared 
+now it works there too. So perphaps it had to do with my specific setup and something unknown to me is shared 
 between the two environments.
 
 Still the yarn setup commands used in the original post are not verbatum applicable anymore because some of the packages 
-do not work together the same way anymore.
+do not work together the same way as they used to.
 
 ## Using VS code
 
@@ -92,7 +92,7 @@ The rest of the guide had only very few problems like a missing Assets folder th
 It was problem free to start the development web server on ubuntu using `yarn dev` in the project folder.
 
 And it even opened the browser in windows on `http://localhost:8080` all seems good. But unfortunately...
-`Connection Refused`.
+Connection Refused :sad:.
 
 I spent several hours trying to fix this but finally it worked... I thought. The problem is that Windows need to 
 know that Ubuntu is to be accessed on port 8080. Some kind of port forwarding is in order one should think.
@@ -112,9 +112,10 @@ Set-NetFirewallProfile -DisabledInterfaceAliases "vEthernet (WSL)"
 ```
 
 Disabling the network interface altogether. Now it seems to work (on my machine) even after 3 restarts. 
-Somewhat confident.
+I feel somewhat confident.
 
-The setup on your machine might be very different, I use Eset for firewall but it respects the windows firewall rules.
+The setup on your machine might be very different, I use Eset for firewall but has it set to respect the windows firewall rules.
+You can experiment with temporarily disabling your firewall to get it working.
 
 ## How to continue
 
