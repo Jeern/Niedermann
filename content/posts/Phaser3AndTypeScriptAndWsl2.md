@@ -97,7 +97,7 @@ And it even opened the browser in windows on `http://localhost:8080` all seems g
 I spent several hours trying to fix this but finally it worked... I thought. The problem is that Windows need to 
 know that Ubuntu is to be accessed on port 8080. Some kind of port forwarding is in order one should think.
 
-But that must be set up already, because what finally seemed to work was this:
+However that is probably set up in WSL2 from the get-go, because what finally seemed to work was this:
 
 ```powershell
 New-NetFirewallRule -DisplayName "WSL" -Direction Inbound  -InterfaceAlias "vEthernet (WSL)"  -Action Allow
