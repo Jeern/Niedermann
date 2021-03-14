@@ -125,4 +125,6 @@ I should think that would give me the linux capabilities in docker without the h
 Port forwarding in docker is after all trivial.
 
 One other thing I will probably do for development is to try to get the newest web pack version to work. 
-Using a different development server than the one in webpack is an idea I could try. http-server comes to mind.
+
+Using a different development server than the one in webpack is an idea I could try. 
+The http-server package comes to mind.
