@@ -1,6 +1,6 @@
 ---
 title: "Using the PostgreSQL array type with Dapper"
-date: 2021-09-23T21:00:00.6463905+00:00
+date: 2021-09-23T21:00:00+01:00
 draft: false
 ---
 PostgreSQL has some fancy types like the array type. But its not obvious how to return e.g. an `int[]` or an `uuid[]` in a single row from Dapper.
