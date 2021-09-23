@@ -5,7 +5,7 @@ draft: false
 ---
 PostgreSQL has some fancy types like the array type. But its not obvious how to return e.g. an `int[]` or an `uuid[]` in a single row from Dapper.
 
-In fact the first hit on [StackOverflow](https://stackoverflow.com/questions/62915756/how-to-deserialize-array-using-dapper/69179355#69179355) said it was impossible.
+In fact the first hit on [StackOverflow](https://stackoverflow.com/questions/62915756/how-to-deserialize-array-using-dapper) said it was impossible.
 
 Not so... with a little insight, luck and duct tape you can do anything. It's actually quite easy.
 
@@ -47,4 +47,4 @@ I have also tested the handler with an `uuid[]` which works just as fine:
 SqlMapper.AddTypeHandler(new GenericArrayHandler<Guid>());
 ```
 
-
+And now StackOverflow is updated with the correct [answer](https://stackoverflow.com/questions/62915756/how-to-deserialize-array-using-dapper/69179355#69179355) :smirk:
