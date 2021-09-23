@@ -31,7 +31,7 @@ public class GenericArrayHandler<T> : SqlMapper.TypeHandler<T[]>
 }
 ```
 
-I made it generic in ordet to work for all kinds of types.
+I made it generic to make it work for all kinds of types.
 
 Then you just add this handler in the Initialization code of your app or website like this:
 
