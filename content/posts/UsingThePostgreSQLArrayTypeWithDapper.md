@@ -17,7 +17,7 @@ var arrayOfThreeElements =
               .FirstOrDefault();
 ```
 
-The only thing you need is a TypeHandler which you can use to tell Dapper how to handle the array type.
+The only thing you need to fix this is a TypeHandler which you can use to tell Dapper how to handle the array type.
 
 ```csharp
 public class GenericArrayHandler<T> : SqlMapper.TypeHandler<T[]>
